@@ -6,6 +6,9 @@ __pycache__/
 Apple Files
 .DS_Store
 
+Jupyter Notebooks not to Track
+Practice.ipynb
+
 # C extensions
 *.so
 
